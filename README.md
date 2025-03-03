@@ -63,7 +63,7 @@ This project was developed to address several key challenges:
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/mi-tool.git
+git clone https://github.com/monariid/mi-tool.git
 
 # Install dependencies
 cd mi-tool
@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support or inquiries:
 - Email: support@monarid.com
-- Website: https://mi-tool.app
+- Website: [https://mitool.vercel.app/]
 - Police Website: https://www.police.gov.rw
 
 ## Future Roadmap 🗺️
@@ -159,4 +159,4 @@ For support or inquiries:
 
 ---
 
-Built with ❤️ for Rwanda's safety and security.
+Built with ❤️ for Rwanda's By Monarid safety and security.
